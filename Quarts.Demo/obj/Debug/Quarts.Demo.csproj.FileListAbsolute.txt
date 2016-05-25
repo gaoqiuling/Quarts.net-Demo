@@ -1,0 +1,8 @@
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\bin\Debug\Quarts.Demo.exe.config
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\bin\Debug\Quarts.Demo.exe
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\bin\Debug\Quarts.Demo.pdb
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\obj\Debug\Quarts.Demo.exe
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\obj\Debug\Quarts.Demo.pdb
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\obj\Debug\Quarts.Demo.csprojResolveAssemblyReference.cache
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\obj\Debug\Quarts.Demo.ProjectInstaller.resources
+c:\users\gaoqiuling\documents\visual studio 2015\Projects\Quarts.Demo\Quarts.Demo\obj\Debug\Quarts.Demo.csproj.GenerateResource.Cache
