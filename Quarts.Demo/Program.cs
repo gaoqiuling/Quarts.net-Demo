@@ -12,6 +12,7 @@ namespace Quarts.Demo
     {
         static void Main(string[] args)
         {
+            //Runner.Instance.Run();
             ServiceBase.Run(new JobService());
         }
     }

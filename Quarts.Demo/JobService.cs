@@ -19,12 +19,14 @@ namespace Quarts.Demo
 
         protected override void OnStart(string[] args)
         {
-            Console.WriteLine(DateTime.Now.ToString());
+            Runner.Instance.Run();
+            Log.Info("-------Start Service-------");
         }
 
         protected override void OnStop()
         {
-            // TODO: 在此处添加代码以执行停止服务所需的关闭操作。
+            Runner.Instance.Stop();
+            Log.Info("-------Stop Service-------");
         }
     }
 }
